@@ -1,6 +1,11 @@
 # STUDENT DATABASE USING REACT
 A simple React application designed for performing operations such as creating, reading, updating, and deleting student entries within an array-based database.
 
+
+![Screenshot 2024-03-21 at 17-50-25 React App](https://github.com/Benji-c-Ohanu/Student-Database-REACT/assets/59982887/7f01dd21-7ad5-499e-9460-763edda58756)
+![Screenshot 2024-03-21 at 17-50-45 React App](https://github.com/Benji-c-Ohanu/Student-Database-REACT/assets/59982887/c356023b-e0bd-42b4-ab58-8ce622fb644a)
+![Screenshot 2024-03-21 at 17-51-08 React App](https://github.com/Benji-c-Ohanu/Student-Database-REACT/assets/59982887/21f6ce50-c98d-402a-ada5-7d2171aba0e3)
+
 TECHNOLOGIES 
 FILE STRUCTURE
 REACT
@@ -9,6 +14,7 @@ FRAMEWORKS & DEPENDENCIES
 BOOTSTRAP 5- Bootstrap https://getbootstrap.com/
  NPM
 VISUAL STUDIO CODE
+
 
 LAUNCH
 1. Download/clone Project
@@ -19,6 +25,7 @@ LAUNCH
 
 4. Run webpage by clicking on mozilla firfox or any other browser installed on your system.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
